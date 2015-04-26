@@ -29,6 +29,8 @@ laying.
 
 We further summarized by calculating the mean of each of the 79 variables for the total of 30 subjects and 6 activities.  This yielded the final dataset with 180 observables and 81 variables. 
 
+The names of the 79 variables have not been changed from the original names into more readable names.  This was a deliberate choice to preserve agreement with the features documents from the original data source. 
+
 The final tidy dataset is written to tidy_data.txt
 
 
